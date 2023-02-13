@@ -1,0 +1,12 @@
+---
+
+# path to inspection
+PATH_TO_INSPECTION: './example_inspection'
+
+# directory to save results
+BASE_SAVE_DIR: './example_inspection/SDDS Results'
+
+# load yolov5 locally or via the yolov5 Github 
+LOCAL: False
+
+...
